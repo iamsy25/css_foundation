@@ -1,2 +1,2 @@
-# css_foundations
-CSS Foundations
+# css_foundation
+CSS Foundation
