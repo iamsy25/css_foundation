@@ -81,7 +81,7 @@ header .navbar {
   max-width: 600px;
   margin-top: 15px;
   text-align: justify;
-  /*background: rgba(225, 245, 254, 0.5)*/
+  background: rgba(225, 245, 254, 0.3)
 }
 
 .hero-section .content button {
